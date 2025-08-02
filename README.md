@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ibson Gabriel 👋
+## Olá! Eu sou o Ibson Vital 👋
 
 🎓 Estudante de Licenciatura em Matemática migrando para Ciência da Computação  
 📊 Gestor de Projetos na RPEOTTA, com foco em Power BI e Excel  
