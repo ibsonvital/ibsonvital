@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Atuo como **Gestor de Projetos na RPEOTTA**, onde lidero melhoria da visualização de dados usando **Power BI** e **Excel**.
+Atuo como **Gestor de Projetos na RPEOTTA**, onde lidero a implementação e melhoria contínua da visualização de dados usando **Power BI** e **Excel**.
 
 Tenho experiência prática na construção de dashboards, automação de relatórios e análise de dados. Atualmente estou em transição para a **Ciência da Computação**, aprofundando meus estudos em **SQL**, estruturas de dados e desenvolvimento orientado a dados.
 
