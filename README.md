@@ -16,9 +16,20 @@
 - Análise de Dados
 - Organização e rastreabilidade de documentos técnicos
 
-### 📫 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- Email: ibson.photos@gmail.com
+
+  ##
+ 
+<div>
+<a href="https://www.linkedin.com/in/ibson-vital-530540261/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/ibson_biersack/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:ibson.photos@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 
 ---
 
