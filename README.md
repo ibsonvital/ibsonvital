@@ -51,7 +51,7 @@ Tenho experiência prática na construção de dashboards, automação de relat�
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Onde me encontrar?
 
 Você pode me encontrar em outras plataformas:
 
