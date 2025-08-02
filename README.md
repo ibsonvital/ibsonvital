@@ -19,7 +19,7 @@ Tenho experiência prática na construção de dashboards, automação de relat�
 ## 🧰 Principais Habilidades
 
 - 📊 **Power BI**: modelagem, DAX, ETL, visualizações e automação de relatórios
-- 📈 **Excel Avançado**: tabelas dinâmicas, fórmulas, dashboards e automações com VBA
+- 📈 **Excel Avançado**: tabelas dinâmicas, fórmulas e dashboards
 - 🧠 **Lean Six Sigma**: fundamentos de melhoria contínua (White Belt completo, cursando Yellow)
 - 📚 **SQL**: em processo de aprendizado, com foco em análise de dados
 
