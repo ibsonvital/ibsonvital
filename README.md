@@ -37,7 +37,7 @@ Tenho experiência prática na construção de dashboards, automação de relat�
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **Dashboard Operacional** | Visualização de performance e metas em contratos da Petrobras | Power BI, Excel |
+| **Dashboard Operacional** | implantação e desenvolvimento de dashboard no Power BI voltado ao acompanhamento da emissão e rastreabilidade de documentos técnicos da RPeotta, com foco em contratos vinculados à Petrobras. | Power BI, Excel |
 | **Relatórios Automatizados** | Criação de relatórios automatizados para áreas internas da empresa | Power BI, Excel | Desenvolvimento de consultas e dashboards integrados a bases relacionais | Power BI |
 
 ---
