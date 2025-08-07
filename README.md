@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Ibson Vital
-<img src="https://cdn.pixabay.com/photo/2019/10/15/15/53/developer-4556960_960_720.png" width="100%" alt="Developer at desk" />
+<img src="URL_DO_SEU_GIF" width="100%" alt="Descrição" />
 
 🎓 Estudante de Licenciatura em Matemática migrando para Ciência da Computação  
 📊 Gestor de Projetos na RPEOTTA, com foco em Power BI e Excel  
