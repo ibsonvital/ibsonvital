@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Ibson Vital
-<img src="URL_DO_SEU_GIF" width="100%" alt="Descrição" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDV2dW81d2JiZ2Vzb2UzOWs4dzFjajcwOW14OTJua2lrb2N6MWw4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Pessoa codando com dois monitores" />
 
 🎓 Estudante de Licenciatura em Matemática migrando para Ciência da Computação  
 📊 Gestor de Projetos na RPEOTTA, com foco em Power BI e Excel  
