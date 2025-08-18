@@ -3,7 +3,7 @@
 
 🎓 Estudante de Licenciatura em Matemática migrando para Ciência da Computação  
 📊 Gestor de Projetos na RPEOTTA, com foco em Power BI e Excel  
-📁 Atuo na automação de relatórios e visualizações de indicadores estratégicos  
+📁 Atuo na automação de relatórios , otimização de processos e visualizações de indicadores estratégicos  
 🧠 Certificado Lean Six Sigma White Belt e atualmente cursando o Yellow Belt  
 🛠️ Apaixonado por transformar dados brutos em decisões inteligentes
 
