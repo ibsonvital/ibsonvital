@@ -47,7 +47,7 @@ Tenho experiência prática na construção de dashboards, automação de relat�
 
 - 💻 **Ciência da Computação**;
 - 📘 Estrutura de dados e algoritmos;
-- 📊 **SQL para análise de dados**
+- 📊 **SQL para análise de dados**;
 - 🧠 Lean Six Sigma Yellow Belt.
 
 ---
