@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Ibson Vital
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDV2dW81d2JiZ2Vzb2UzOWs4dzFjajcwOW14OTJua2lrb2N6MWw4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Pessoa codando com dois monitores" />
 
-🎓 Estudante de Licenciatura em Matemática migrando para Ciência da Computação  
-📊 Gestor de Projetos na RPEOTTA, com foco em Power BI e Excel  
+🎓 Estudante de Licenciatura em Matemática migrando para a Graduação em Ciência da Computação  
+📊 Gestor de Projetos na RPEOTTA, com foco em Power BI, Excel e Otimização de processos.  
 📁 Atuo na automação de relatórios , otimização de processos e visualizações de indicadores estratégicos  
 🧠 Certificado Lean Six Sigma White Belt e atualmente cursando o Yellow Belt  
 🛠️ Apaixonado por transformar dados brutos em decisões inteligentes
@@ -19,18 +19,18 @@ Tenho experiência prática na construção de dashboards, automação de relat�
 
 ## 🧰 Principais Habilidades
 
-- 📊 **Power BI**: modelagem, DAX, ETL, visualizações e automação de relatórios
-- 📈 **Excel Avançado**: tabelas dinâmicas, fórmulas e dashboards
-- 🧠 **Lean Six Sigma**: fundamentos de melhoria contínua (White Belt completo, cursando Yellow)
-- 📚 **SQL**: em processo de aprendizado, com foco em análise de dados
+- 📊 **Power BI**: modelagem, DAX, ETL, visualizações e automação de relatórios;
+- 📈 **Excel Avançado**: tabelas dinâmicas, fórmulas e dashboards;
+- 🧠 **Lean Six Sigma**: fundamentos de melhoria contínua (White Belt completo, cursando Yellow);
+- 📚 **SQL**: em processo de aprendizado, com foco em análise de dados.
 
 ---
 
 ## 💼 Atualmente trabalhando com:
 
-- Automação de relatórios internos com Power BI
-- Análise de dados operacionais e de desempenho
-- Construção de dashboards para suporte à tomada de decisão
+- Automação de relatórios internos com Power BI;
+- Análise de dados operacionais e de desempenho;
+- Construção de dashboards para suporte à tomada de decisão.
 
 ---
 
@@ -45,10 +45,10 @@ Tenho experiência prática na construção de dashboards, automação de relat�
 
 ## 📚 Atualmente estudando:
 
-- 💻 **Ciência da Computação**
-- 📘 Estrutura de dados e algoritmos
+- 💻 **Ciência da Computação**;
+- 📘 Estrutura de dados e algoritmos;
 - 📊 **SQL para análise de dados**
-- 🧠 Lean Six Sigma Yellow Belt
+- 🧠 Lean Six Sigma Yellow Belt.
 
 ---
 
