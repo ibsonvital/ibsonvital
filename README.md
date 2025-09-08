@@ -63,7 +63,7 @@ Você pode me encontrar em outras plataformas:
 ##
  
 <div>
-<a href="https://www.linkedin.com/in/ibson-vital-530540261/" target="_blank">
+<a href="https://www.linkedin.com/in/ibson-vital/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/ibson_biersack/" target="_blank">
